@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00030000
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:6:5-54
+	android:glEsVersion
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:6:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:7:5-9:36
+	android:required
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:8:9-55
+uses-feature#android.hardware.touchscreen
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:10:5-12:36
+	android:required
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:11:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:14:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:17:9-72
+application
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:20:5-54:19
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:21:9-40:20
+	android:screenOrientation
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:26:13-51
+	android:launchMode
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:25:13-44
+	android:hardwareAccelerated
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:24:13-48
+	android:configChanges
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:23:13-194
+	android:theme
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:27:13-54
+	android:name
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:22:13-48
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:28:13-32:29
+category#android.intent.category.LAUNCHER
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:31:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:34:13-36:40
+	android:value
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:36:17-37
+	android:name
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:35:17-57
+meta-data#android.notch_support
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:38:17-53
+meta-data#unity.splash-mode
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:42:9-44:33
+	android:value
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:44:13-30
+	android:name
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:43:13-45
+meta-data#unity.splash-enable
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:45:9-47:36
+	android:value
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:47:13-33
+	android:name
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:46:13-47
+meta-data#notch.config
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:48:9-50:50
+	android:value
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:50:13-47
+	android:name
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:49:13-40
+meta-data#unity.build-id
+ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:51:9-53:68
+	android:value
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:53:13-65
+	android:name
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:52:13-42
+uses-sdk
+INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\workDir\UnityAndAndroid\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml
